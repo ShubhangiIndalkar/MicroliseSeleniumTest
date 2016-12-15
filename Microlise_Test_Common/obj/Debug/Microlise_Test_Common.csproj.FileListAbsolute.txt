@@ -1,0 +1,12 @@
+G:\Microlise_Test\Microlise_Test_Common\bin\Debug\Microlise_Test_Common.dll.config
+G:\Microlise_Test\Microlise_Test_Common\bin\Debug\Microlise_Test_Common.dll
+G:\Microlise_Test\Microlise_Test_Common\bin\Debug\Microlise_Test_Common.pdb
+G:\Microlise_Test\Microlise_Test_Common\bin\Debug\nunit.framework.dll
+G:\Microlise_Test\Microlise_Test_Common\bin\Debug\WebDriver.dll
+G:\Microlise_Test\Microlise_Test_Common\bin\Debug\WebDriver.Support.dll
+G:\Microlise_Test\Microlise_Test_Common\bin\Debug\nunit.framework.xml
+G:\Microlise_Test\Microlise_Test_Common\bin\Debug\WebDriver.xml
+G:\Microlise_Test\Microlise_Test_Common\bin\Debug\WebDriver.Support.xml
+G:\Microlise_Test\Microlise_Test_Common\obj\Debug\Microlise_Test_Common.csprojResolveAssemblyReference.cache
+G:\Microlise_Test\Microlise_Test_Common\obj\Debug\Microlise_Test_Common.dll
+G:\Microlise_Test\Microlise_Test_Common\obj\Debug\Microlise_Test_Common.pdb
